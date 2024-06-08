@@ -1,0 +1,22 @@
+/* src/App.css */
+.app {
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
